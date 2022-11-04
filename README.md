@@ -6,10 +6,10 @@ This site is a repository of amazing pet goodies. Created using HTML and CSS.
 
 Photo credits:
 
-https://www.pexels.com/@snapwire/ - for dog and cat pictures
+https://www.pexels.com/@blue-bird/ - for pet with a leash image
 
-https://www.pexels.com/@blue-bird/ - for pet with a leash
+https://www.pexels.com/@mathew-coulton-2358287/ - for pet toys image
 
-https://www.pexels.com/@mathew-coulton-2358287/ - for pet toys
+https://www.pexels.com/@sam-lion/ - for pet apparel image
 
-https://www.pexels.com/@sam-lion/ - for pet apparel
+https://www.pexels.com/@rubenstein111rebello/ - for pet food and accessories image
